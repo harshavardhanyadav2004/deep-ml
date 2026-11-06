@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-11-05 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-03 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-05 | [solution](problems/0847-dummy-classifier-baseline) |
+| [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-11-06 | [solution](problems/0848-dummy-regressor-baseline) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-05 | [solution](problems/0842-standardscaler-fit-and-transform) |
 
 ---
