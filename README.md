@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 22 problems · 0 labs · 1 math
+**24** solved · 23 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-05 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-11-06 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-07 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-11-12 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-05 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-07 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-12 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
