@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 23 problems · 0 labs · 1 math
+**25** solved · 24 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-05 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-11-05 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-03 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-16 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-05 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-11-06 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-07 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
